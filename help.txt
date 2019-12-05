@@ -1,0 +1,17 @@
+[Make Me A Video Game!
+I the  2  and  2   3 have  4  3's  2  sister and plan to steal her  2   6 ! What are a  8  and backpacking  7  to do?
+Before you can help  & , you'll have to collect the  2   6  and  2   6  that open up the  $  worlds connected to A  #  Lair.
+
+There are  9   6  and  9   6  in the game, along with hundreds of other goodies for you to find.\n]
+
+rip = chars.replace('"', '')
+.replace('{Adjective}', ' 2 ')
+.replace('{A First Name}', ' 3')
+.replace('{Past Tense Verb}', ' 4 ')
+.replace('{Plural Noun}', ' 6 ')
+.replace('{Small Animal}', ' 7 ')
+.replace('{Large Animal}',' 8 ')
+.replace('{Number}', ' 9 ')
+.replace("{A Girl's Name}", ' & ' )
+.replace('{Number 1-50}', ' $ ')
+.replace("{First Name's}", ' # ')
